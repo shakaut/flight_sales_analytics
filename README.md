@@ -25,7 +25,7 @@ Transaction-level flight sales data including:
 - Airline revenue share  
 - Booking trends (airline & route-wise)  
 - Monthly revenue trends  
-- Booking status distribution  
+- Booking status distribution and more
 
 ---
 
