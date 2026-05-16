@@ -7,9 +7,17 @@ Dashboard Video Link:
 https://drive.google.com/file/d/123Qs0tqXatrgdi85BWoHRv8zlvMlY6Fd/view?usp=sharing
 
 ## Dataset
-Industry used OTA Transaction-level flight sales data including:
-- Bookings, routes, airlines  
-- Pricing, commission, and profitability and more.
+Industry-level OTA (Online Travel Agency) transaction data was used for analysis, including:
+- Booking and transaction details (`booking_id`, `booking_status`, `category`)
+- Customer and traveller information (`sell_region`, `number_of_traveller`)
+- Travel timeline analysis (`booking_date`, `departure_date`, `return_date`)
+- Airline and route performance (`airline`, `route`, `route_type`, `segment`)
+- Location analytics (`departure_location`, `destination_location`)
+- Revenue and pricing metrics (`base_fare`, `tax`, `customer_payable`, `net_revenue`)
+- Profitability analysis (`markup_percentage`, `markup_amount`, `commission_amount`)
+- Payment tracking (`payment_gateway`, `payment_status`, `received_amount`)
+- Currency and GMV analysis (`currency_code`, `total_gmv_usd`)
+- Supplier and operational insights (`supplier_name`, `gds`, `pcc`, `flight_type`)
 
 ---
 
